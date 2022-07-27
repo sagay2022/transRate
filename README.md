@@ -12,9 +12,9 @@ A cladistic method of estimating transmission rates.
 ## Introduction
 Description: transRate uses a cladistic approach for estimating transmission rates between populations that has been supported by simulations of the coalescent with migration. This novel approach, which is based on Slatkin and Madison's approach to estimating gene flow, functions with coalescent models with an island model of population structure. Transmission rate is defined as Infection Rate * Contact Probability.
 
-Version: 1.0
+Version: 1.0.0
 
-Imports: phybase 2.0, stringr 1.4.0
+Imports: phybase,stringr, maps, geosphere,dplyr,tibble,ape,graphics
 
 Author: Skylar Ann Gay
 
