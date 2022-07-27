@@ -1,0 +1,14 @@
+Package: transRate
+Type: Package
+Title: Tools for Transmission Rate Estimation
+Version: 1.0.0
+Author: Skylar Ann Gay
+Maintainer: Skylar Ann Gay <Skylar.Gay@UGA.edu>
+Imports: phybase,stringr, maps, geosphere,dplyr,tibble,ape,graphics
+Description: transRate uses a cladistic approach for estimating transmission rates between populations that has been supported by simulations of the coalescent with migration. This novel approach, which is based on Slatkin and Madison's approach to estimating gene flow, functions with coalescent models with an island model of population structure. Transmission rate is defined as Infection Rate * Contact Probability.
+License: GPL (>= 2)
+Encoding: UTF-8
+Copyright: © Copyright 2022. Skylar Ann Gay. All rights reserved.
+LazyData: true
+RoxygenNote: 7.2.0
+Depends: R (>= 2.10)

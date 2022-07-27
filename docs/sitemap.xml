@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/airplane_plot.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/matrix_to_string.html</loc>
+  </url>
+  <url>
+    <loc>/reference/migration_sim.html</loc>
+  </url>
+  <url>
+    <loc>/reference/sample_pop.html</loc>
+  </url>
+  <url>
+    <loc>/reference/trans_rate_est.html</loc>
+  </url>
+</urlset>

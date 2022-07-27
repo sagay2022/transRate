@@ -1,0 +1,18 @@
+#' Sample Data Set with 3 Clade Centers
+#'
+#'@description This data set contains 3 clade geographic clade centers in Belgium, WA,USA, and Japan. This data set can serve as the dfcoor parameter in transRate::airplane_plot.
+#'
+#'@format A data with 3 rows and 3 variables:
+#' \describe{
+#' \item{clade}{the interger specifying which clade center is in the row}
+#' \item{continent}{the clade center's continent}
+#' \item{location}{the clade center's location}
+#' \item{longitude}{the clade center's longitudinal position}
+#' \item{latitude}{the clade center's latitudinal position}
+#' }
+#' @source {Created by Skylar Ann Gay to serve as an example.}
+#'
+#' @examples
+#' dfcoor <- sample_dfcoor
+#' dfcoor
+"sample_dfcoor"
